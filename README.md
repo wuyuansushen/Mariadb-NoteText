@@ -1,3 +1,3 @@
 # Mariadb-NoteText
 
-### 1.Installation
+### 1.Install Mariadb
